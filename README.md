@@ -9,4 +9,4 @@ The goal is to have some hand-on practice to take the most out of these courses 
 3. Practice with Junit5, AssertJ and Mockito
 4. Using Testcontainers to handle the Redis instance for the tests
 
-This library is a wrapper of an existing [redis client project](https://github.com/drm/java-redis-client.git) which license you can find [here](./LICENSE)
+This library is a wrapper of an existing [redis client project](https://github.com/drm/java-redis-client.git) which [license](./LICENSE) and [documentation](./README_Client.md) are included in this repo.
